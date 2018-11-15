@@ -1,3 +1,9 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/SideBySide/Form1.cs) (VB: [Form1.vb](./VB/SideBySide/Form1.vb))
+* [Program.cs](./CS/SideBySide/Program.cs) (VB: [Program.vb](./VB/SideBySide/Program.vb))
+<!-- default file list end -->
 # How to place series with different axes side-by-side
 
 
